@@ -109,7 +109,7 @@
                                         <g>
                                         </g>
                             </svg>
-                    {{-- star svg file end --}}
+                        {{-- star svg file end --}}
 
                             <span class="ml-1">80%</span>
                             <span class="mx-2">|</span>
